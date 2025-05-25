@@ -1,5 +1,5 @@
 print("Hello, ABOBA!")
 
 
-def print(*args):
+def print(*args) -> None:
     print(*args)
